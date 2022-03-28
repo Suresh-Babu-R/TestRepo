@@ -1,3 +1,4 @@
 Added from branch Two
 new file
 added some text from master
+new line
