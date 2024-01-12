@@ -3,4 +3,3 @@ new file
 added some text from master
 new line
 new line 2
-test test
