@@ -1,20 +1,18 @@
-## What kind of change does this PR introduce? (Bug fix, feature, docs update, ...)
-> 
+## PR Type (Bug fix, feature, docs update, ...)
+>
 
 ## Description
 Please update here a brief description of the changes being made.
 
 
+## Associated Jira tickets (CALL/PROVISION) or any other link that explains this change:
+>
 
-## Associated Jira(s) or any other link that'll help understanding the change :
+## Added or updated unit tests to include both positive and negative test cases for changes (Yes/No/NA) :
+>
 
-> 
-
-
-## added or updated unit tests to include both positive and negative test cases for changes (Yes /No / N/A) :
-> 
-
-
+## Added or updated Functional tests to include both positive and negative test cases for changes (Yes/No/NA) :
+>
 
 ## Other information:
 N/A
